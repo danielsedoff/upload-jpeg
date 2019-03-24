@@ -1,0 +1,6 @@
+upload-jpeg
+
+upload-jpeg is a PHP script that allows to upload an image 
+and compress it as a JPEG file.
+
+Based on advice from stackoverflow and php.net.
